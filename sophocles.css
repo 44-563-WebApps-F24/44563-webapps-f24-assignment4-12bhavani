@@ -1,6 +1,6 @@
 .speech {
     font-family:'Times New Roman', Times, serif;
-    font-size: 12px;
+    font-size: 16px;
     color: black
 }
 
@@ -16,11 +16,11 @@
 }
 
 .WATCH {
-    color: greenyellow;
+    color: deeppink;
 }
 .CR {
-    color: violet;
+    color: darkslateblue;
 }
 .CB {
-    color:orange
+    color:darkorange;
 }

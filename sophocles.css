@@ -1,0 +1,26 @@
+.speech {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black
+}
+
+.direction {
+    font-family: sans-serif;
+    font-size: 14px;
+    color:black;
+    background-color: lightskyblue
+}
+.direction:hover {
+    background-color: lightpink;
+    color: navy;
+}
+
+.WATCH {
+    color: greenyellow;
+}
+.CR {
+    color: violet;
+}
+.CB {
+    color:orange
+}

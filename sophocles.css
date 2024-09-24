@@ -18,12 +18,32 @@
 .WATCH {
     color: deeppink;
 }
+.WATCH:hover{
+    text-shadow: 2px 3px 5px green;
+    border: solid 1px green;
+    color: brown;
+}
 .CR {
     color: darkslateblue;
+}
+.CR:hover{
+    text-shadow: 2px 3px 5px green;
+    border: solid 1px green;
+    color: brown;
 }
 .CB {
     color:darkorange;
 }
+.CB:hover{
+    text-shadow: 2px 3px 5px green;
+    border: solid 1px green;
+    color: brown;
+}
 .CH {
     color: darkcyan;
+}
+.CH:hover{
+    text-shadow: 2px 3px 5px green;
+    border: solid 1px green;
+    color: brown;
 }
